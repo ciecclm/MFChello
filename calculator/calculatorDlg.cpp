@@ -158,6 +158,6 @@ HCURSOR CcalculatorDlg::OnQueryDragIcon()
 void CcalculatorDlg::OnBnClickedTest()
 {
 	// TODO: 在此添加控件通知处理程序代码
-	MessageBox(L"hello!第一次修改");
+	MessageBox(L"hello!第一次修改第二次修改");
 
 }
